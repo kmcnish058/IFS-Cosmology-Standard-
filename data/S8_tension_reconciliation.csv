@@ -1,0 +1,4 @@
+Source,Value_Type,S8_Value,Growth_Index_Gamma,Status
+Combined_CMB_2026,Baseline,0.836,0.550,Brittle_Overestimate
+DES_Year_6_2026,Observation,0.789,Unknown,LSS_Suppression
+IFS_Standard,Reconciliation,0.791,0.580,Resonant_Match
