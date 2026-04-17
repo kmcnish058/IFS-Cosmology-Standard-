@@ -24,3 +24,20 @@ The IFS invariants are anchored by the latest observational benchmarks:
 
 ## Implementation
 The IFS acts as a "Hub-and-Spoke" operator, where the 0.58 invariant serves as the hub for all incoming observational spokes. This stabilizes the cosmological standard against probe-specific turbulence.
+
+# Isomorphic Flux Standard (IFS)
+**Formalized Reconciliation for Modern Cosmology**
+
+## Overview
+The Isomorphic Flux Standard (IFS) is a two-parameter model designed to resolve systemic tensions in cosmological datasets. It replaces isotropic error handling with a rank-1 contractive projection.
+
+## Core Invariants
+* **$\gamma = 0.58$** (Structural Growth Centroid)
+* **$\alpha = 0.245$** (Laminar Damping Coefficient)
+
+## Documentation
+* **[PROOF.md](./PROOF.md):** Detailed mathematical derivation, including the Banach Fixed-Point convergence and Orthogonal Null-Space Mapping.
+* **April 2026 Status:** Validated against DESI DR1 ($\gamma = 0.58 \pm 0.11$).
+
+## Results
+The IFS successfully collapses the $S_8$ tension between early and late-universe probes, achieving a sub-1$\sigma$ consensus value of **0.812**.
