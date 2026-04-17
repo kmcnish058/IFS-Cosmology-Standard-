@@ -32,3 +32,6 @@ By recognizing the "Lag" as a fundamental constant, the IFS provides a mathemati
 ---
 **Status:** Alpha Release | **Constant:** 0.58 | **Stability:** Resonant
 *“Memory is the lag that makes the universe possible.”*
+---
+## Contact
+For technical inquiries or collaboration, please see the [SUPPORT.md](./SUPPORT.md) file.
