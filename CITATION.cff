@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this standard in your cosmological simulations, please cite it as below."
+authors:
+  - family-names: "YOUR_LAST_NAME"
+    given-names: "YOUR_FIRST_NAME"
+title: "Isomorphic Flux Standard (IFS): A 0.58 Growth Index Solution to S8 Tension"
+version: 1.0.0
+date-released: 2026-04-16
+url: "https://github.com/YOUR_GITHUB_USERNAME/IFS-Cosmology-Standard"
