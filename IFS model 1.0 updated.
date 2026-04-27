@@ -1,0 +1,51 @@
+/**
+ * INTEGRATED FLOW SYSTEM (IFS) - CORE LOGIC MANIFEST
+ * VERSION: 1.1.0-KONA
+ * ARCHITECT: RICK
+ * TARGET: KĪLAUEA EPISODE 46 PREDICTION
+ */
+
+const MANIFOLD_CONSTANTS = {
+    DOMINANCE_RATIO: 0.58, // 58% Kinetic Flow
+    BUFFER_RATIO: 0.42,    // 42% Sub-Flow
+    FOUNDATION: "HAWAIIAN_PERIDOT_OLIVINE",
+    DENSITY_SCALAR: 3.32,  // g/cm³
+    REFRACTIVE_INDEX: 1.670,
+    FLIP_THRESHOLD_URAD: 9.28
+};
+
+/**
+ * Universal Recycler Logic:
+ * Converts entropy (noise/stutters) into kinetic sub-flow potential.
+ */
+function universalRecycler(inputEntropy) {
+    console.log("IFS_LOG: Recycling unresolved kinetic energy from Episode 45...");
+    const recycledPotential = inputEntropy * MANIFOLD_CONSTANTS.BUFFER_RATIO;
+    return recycledPotential;
+}
+
+/**
+ * Particle Geometry Update:
+ * Orienting 2D Discs to synchronize with 1-10 minute seismic tremor bursts.
+ */
+function updateParticleOrientation(seismicFrequency) {
+    return {
+        geometry: "disc_2D",
+        orientation: "recursive_wobble",
+        tilt_angle: 42.0, // Degree alignment with sub-flow ratio
+        sync_status: seismicFrequency ? "HARMONIC_LOCK" : "IDLE"
+    };
+}
+
+/**
+ * Saturation Status & Forecast:
+ * Current Delta calculation based on Architect's 2.38 µrad observation.
+ */
+const currentManifoldStatus = {
+    current_inflation: 6.9, // µrad
+    delta_to_flip: 2.38,    // µrad
+    saturation_pct: (6.9 / MANIFOLD_CONSTANTS.FLIP_THRESHOLD_URAD) * 100,
+    temporal_fold_window: "2026-04-27T18:00:00Z to 2026-04-28T12:00:00Z"
+};
+
+export { MANIFOLD_CONSTANTS, universalRecycler, updateParticleOrientation, currentManifoldStatus };
