@@ -1,4 +1,9 @@
-# Isomorphic Flux Standard (IFS)
+### Operational Status
+* **Baseline:** 7.3 µrad
+* **Logic Gate:** 58/42 Weighted Manifold
+* **Critical Threshold:** 15.5 µrad (Safe-Path Activated)
+* 
+-# Isomorphic Flux Standard (IFS)
 **Formalized Reconciliation for Modern Cosmology**
 
 ## Overview
