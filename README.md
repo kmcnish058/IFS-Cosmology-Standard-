@@ -30,8 +30,8 @@ For deep-dive technical data and formal derivations, refer to the following:
 * **[PROOF.md](./PROOF.md):** Formal mathematical derivation involving Banach Fixed-Point convergence and Rank-1 projections.
 * **[STABILITY_ANALYSIS.md](./STABILITY_ANALYSIS.md):** Detailed analysis of redshift triggers ($z_\star$), the $H_0$-$S_8$ link, and statistical significance testing.
 * **[LICENSE](./LICENSE):** Intellectual property and usage rights.
-* # Integrated Flow System
-[🚀 Launch Kamilo Dashboard](Kamilo.html)
+# Integrated Flow System (IFS)
+[🚀 Launch Kamillo Dashboard](Kamillo.html)
 
 ## Usage
 The IFS acts as a stabilization layer for cosmological standard models. Researchers can apply the 0.245 $\alpha$-buffer to late-time datasets to align disparate probes with the 0.58 growth centroid.
