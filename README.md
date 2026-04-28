@@ -33,8 +33,5 @@ For deep-dive technical data and formal derivations, refer to the following:
 * # Integrated Flow System
 [🚀 Launch Kamilo Dashboard](Kamilo.html)
 
---
--
-
 ## Usage
 The IFS acts as a stabilization layer for cosmological standard models. Researchers can apply the 0.245 $\alpha$-buffer to late-time datasets to align disparate probes with the 0.58 growth centroid.
